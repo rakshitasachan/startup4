@@ -1,0 +1,52 @@
+.h1{
+    font-size: 60px;
+  
+    color: rgb(31, 31, 100);
+}
+.top{
+    margin-top: 70px;
+    font-size: 190px;
+}
+.p{
+    margin-left: 80px;
+    padding-top: 30px;
+    color: transparent; 
+    text-shadow: 0 0 1px #868080; 
+   
+}
+.navbar-brand{
+    font-size: 30px;
+    color: rgb(31, 31, 100);
+}
+.link{
+    margin-left: 46%;
+    color:rgb(112, 205, 213);
+    font-size: 20px;
+    text-decoration: none;
+}
+.button{
+    margin-left: 43%;
+    padding:20px;
+    border-radius: 35px;
+}
+.signin{
+    border-radius: 20px;
+    padding:10px;
+}
+
+.nav-item{
+    padding-right: 30px;
+    
+}
+
+.nav-link{
+   color: #b7a7a7;
+   
+}
+.icon{
+    margin-right: 40px;
+}
+video{
+    padding-top: 40px;
+    margin-left: 450px;
+}
